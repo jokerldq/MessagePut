@@ -1,0 +1,6 @@
+id:自动加一 auto pk
+rooid:0,主贴标记，非0是他跟随的哪个贴
+title：帖子标题
+content：帖子内容
+userid:谁发的帖子
+datetime：发帖时间
